@@ -1,0 +1,112 @@
+[
+  {
+    "id": "nthxdev123",
+    "name": "nthxdev",
+    "username": "nthxdev",
+    "email": "nthxdev@gmail.com",
+    "password": "@Nthx1211",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "verified": true,
+    "bio": "write conscious??",
+    "location": "India",
+    "website": "https://nthxdev.com",
+    "social": {
+      "instagram": "https://www.instagram.com/nthxdev/",
+      "github": "https://github.com/nthxdev",
+      "twitter": "https://x.com/nthxdev"
+    },
+    "courses": [
+      {
+        "id": "webgl-shaders",
+        "title": "WebGL Shaders Deep Dive",
+        "description": "Master WebGL shaders and create stunning visual effects for the web",
+        "duration": "8 hours",
+        "level": "Advanced",
+        "category": "WebGL",
+        "createdAt": "2024-06-15T10:00:00.000Z",
+        "image": "/assets/WebGL Shaders Deep Dive.png",
+        "likes": 1250,
+        "views": 15400,
+        "downloads": 890
+      },
+      {
+        "id": "product-showcase",
+        "title": "Product Showcase 3D",
+        "description": "Create interactive 3D product showcases that engage customers",
+        "duration": "6 hours",
+        "level": "Intermediate",
+        "category": "Three.js",
+        "createdAt": "2024-07-20T14:30:00.000Z",
+        "image": "/assets/Product Showcase 3D.mp4",
+        "likes": 980,
+        "views": 12300,
+        "downloads": 650
+      },
+      {
+        "id": "parallax-scroll",
+        "title": "Parallax Scroll Story",
+        "description": "Build immersive storytelling experiences with parallax scrolling",
+        "duration": "5 hours",
+        "level": "Intermediate",
+        "category": "Animation",
+        "createdAt": "2024-08-10T09:15:00.000Z",
+        "image": "/assets/Parallax Scroll Story.mp4",
+        "likes": 750,
+        "views": 9200,
+        "downloads": 420
+      },
+      {
+        "id": "fluid-typography",
+        "title": "Fluid Typography Animation",
+        "description": "Create fluid, responsive typography animations that adapt to any screen",
+        "duration": "4 hours",
+        "level": "Beginner",
+        "category": "Typography",
+        "createdAt": "2024-09-05T16:45:00.000Z",
+        "image": "/assets/Fluid Typography Animation.mp4",
+        "likes": 620,
+        "views": 7800,
+        "downloads": 380
+      }
+    ],
+    "followers": "2.1k",
+    "following": "4",
+    "skills": ["Three.js", "WebGL", "React", "TypeScript", "GSAP", "Shaders", "3D Design", "Animation"]
+  },
+  {
+    "id": "sample123",
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "johndoe@gmail.com",
+    "password": "Password123",
+    "createdAt": "2025-01-15T10:30:00.000Z",
+    "verified": false,
+    "bio": "",
+    "location": "",
+    "website": "",
+    "followers": "0",
+    "following": "0",
+    "courses": [],
+    "designs": [],
+    "assets": [],
+    "posts": []
+  },
+  {
+    "id": "sample456",
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "email": "janesmith@gmail.com",
+    "password": "SecurePass456",
+    "createdAt": "2025-01-16T14:20:00.000Z",
+    "verified": false,
+    "bio": "",
+    "location": "",
+    "website": "",
+    "followers": "0",
+    "following": "0",
+    "courses": [],
+    "designs": [],
+    "assets": [],
+    "posts": []
+  }
+]
